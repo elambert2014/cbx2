@@ -1,9 +1,9 @@
-Building BlackCoin
+Building CryptoBullion
 
-See doc/readme-qt.rst for instructions on building BlackCoin QT,
+See doc/readme-qt.rst for instructions on building CryptoBullion QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of BlackCoin.
+implementation of CryptoBullion.
 
 See doc/build-*.txt for instructions on building blackcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of BlackCoin.
+implementation of CryptoBullion.
